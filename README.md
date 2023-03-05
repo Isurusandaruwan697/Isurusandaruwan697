@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **MIS, Project Management**
 
-- ⚡ Fun fact **I am Interested in Vikings**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/isuru sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isuru sandaruwan" height="30" width="40" /></a>
@@ -26,4 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isurusandaruwan697&show_icons=true&locale=en" alt="isurusandaruwan697" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isurusandaruwan697&" alt="isurusandaruwan697" /></p>
+
+<img src="https://www.holopin.io/_next/image?url=%2Fapi%2Fuser%2Fboard%3Fuser%3Disurusandaruwan&w=1920&q=75" alt="Girl in a jacket" width="" height="">
 
