@@ -1,4 +1,4 @@
-![MasterHead](https://steamcdn-a.akamaihd.net/steam/apps/466560/extras/GIF1.jpg?t=1532424094)
+![MasterHead](https://vu.wwu.edu/files/2020-07/vu_front.gif)
 <h1 align="left">Hi 👋, I'm Isuru Sandaruwan</h1>
 <h3 align="left">I am a MIS Undergraduate</h3>
 
