@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/headers/TheBeardStruggle/5ZshprG1qtMA.gif)
+![MasterHead](https://steamcdn-a.akamaihd.net/steam/apps/466560/extras/GIF1.jpg?t=1532424094)
 <h1 align="left">Hi 👋, I'm Isuru Sandaruwan</h1>
 <h3 align="left">I am a MIS Undergraduate</h3>
 
