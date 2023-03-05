@@ -7,6 +7,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **MIS, Project Management**
+- 🎓 I’m currently an undergraduate of NSBM Green University, Sri Lanka
+- 💻 I’m learning Desktop Applications Development, Web Development, & Project Management
+- 🌟 I’m interested to collaborate on Open Source Projects and Commercial Projects
+- 🖋️ And also, I am working as a blogger
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
